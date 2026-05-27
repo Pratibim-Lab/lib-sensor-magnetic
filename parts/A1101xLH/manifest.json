@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1101xLH:A1101xLH",
+  "name": "A1101xLH",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1101xLH.kicad_sym",
+  "description": "Hall effect switch, unipolar (south-polarity), Bop=100G, Brp=45G, 3.8-24V supply, SOT-23W",
+  "datasheet": "https://www.allegromicro.com/-/media/files/datasheets/a110x-datasheet.ashx",
+  "keywords": "A3141",
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1101xLH/",
+  "part_path": "parts/A1101xLH",
+  "symbol_file": "parts/A1101xLH/A1101xLH.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.541Z"
+}

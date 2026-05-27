@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MT6816CT:MT6816CT",
+  "name": "MT6816CT",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MT6816CT.kicad_sym",
+  "description": "High Speed & High Resolution Magnetic Angle Sensor IC, SOIC-8",
+  "datasheet": "http://www.magntek.com.cn/upload/MT6816_Rev.2.0.pdf",
+  "keywords": "ABZ UVW SPI 14bit AMR Incremental Absolute Position Encoder",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MT6816CT/",
+  "part_path": "parts/MT6816CT",
+  "symbol_file": "parts/MT6816CT/MT6816CT.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.749Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AS5510-DWL:AS5510-DWL",
+  "name": "AS5510-DWL",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AS5510-DWL.kicad_sym",
+  "description": "Linear Hall Sensor, 10-bit resolution, I2C, WLCSP-6",
+  "datasheet": "https://look.ams-osram.com/m/19562c0de86ac97e/original/AS5510-DS000318.pdf",
+  "keywords": "ams-OSRAM",
+  "footprint": "Package_CSP:WLCSP-6_1.46x1.1mm_Layout3x2_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AS5510-DWL/",
+  "part_path": "parts/AS5510-DWL",
+  "symbol_file": "parts/AS5510-DWL/AS5510-DWL.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.618Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1369xUA-24:A1369xUA-24",
+  "name": "A1369xUA-24",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1369xUA-24.kicad_sym",
+  "description": "Customer-Programmable Linear Hall Effect Sensor, -22 to -26mV/G, TO-92S (3-pin SIP)",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A1369-Datasheet.ashx?la=en",
+  "keywords": "current-sensing monitor ratiometric Obsolete",
+  "footprint": "Package_TO_SOT_THT:TO-92S",
+  "extends": "A1369xUA-10",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1369xUA-24/",
+  "part_path": "parts/A1369xUA-24",
+  "symbol_file": "parts/A1369xUA-24/A1369xUA-24.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.567Z"
+}

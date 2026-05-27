@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MMC5633NJL:MMC5633NJL",
+  "name": "MMC5633NJL",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MMC5633NJL.kicad_sym",
+  "description": "3-axis AMR Magnetometer, 30 G, I2C & I3C  Interface, 2mG RMS, WLP-4",
+  "datasheet": "http://www.memsic.com/uploadfiles/2020/08/20200827165106864.pdf",
+  "keywords": "I2C I3C magnetic 3-axis sensor magnetometer AMR magnetoresistance",
+  "footprint": "Package_BGA:WLP-4_0.86x0.86mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MMC5633NJL/",
+  "part_path": "parts/MMC5633NJL",
+  "symbol_file": "parts/MMC5633NJL/MMC5633NJL.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.699Z"
+}

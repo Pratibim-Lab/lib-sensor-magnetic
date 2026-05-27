@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1308xLHxx-2:A1308xLHxx-2",
+  "name": "A1308xLHxx-2",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1308xLHxx-2.kicad_sym",
+  "description": "Linear Hall Effect Sensor ICs with Analog Output, 2.5 mV/G, 4.5-5.5V supply, SOT-23W",
+  "datasheet": "https://www.allegromicro.com/~/media/files/datasheets/a1308-9-datasheet.ashx",
+  "keywords": "ratiometric A1301",
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "extends": "A1301xLH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1308xLHxx-2/",
+  "part_path": "parts/A1308xLHxx-2",
+  "symbol_file": "parts/A1308xLHxx-2/A1308xLHxx-2.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.562Z"
+}

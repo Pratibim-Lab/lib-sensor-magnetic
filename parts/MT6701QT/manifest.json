@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MT6701QT:MT6701QT",
+  "name": "MT6701QT",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MT6701QT.kicad_sym",
+  "description": "Hall Based Angle Position Encoder Sensor, I2C, SSI, ABZ & UVW interfaces, 3.3..5V supply, QFN-16",
+  "datasheet": "https://www.magntek.com.cn/upload/MT6701_Rev.1.5.pdf",
+  "keywords": "sensor magnetic hall rotation",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MT6701QT/",
+  "part_path": "parts/MT6701QT",
+  "symbol_file": "parts/MT6701QT/MT6701QT.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.747Z"
+}

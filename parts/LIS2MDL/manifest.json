@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/LIS2MDL:LIS2MDL",
+  "name": "LIS2MDL",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/LIS2MDL.kicad_sym",
+  "description": "Ultra-low-power, 3-axis digital output magnetometer, LGA-12",
+  "datasheet": "https://www.st.com/resource/en/datasheet/lis2mdl.pdf",
+  "keywords": "digital magnetometer",
+  "footprint": "Package_LGA:LGA-12_2x2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/LIS2MDL/",
+  "part_path": "parts/LIS2MDL",
+  "symbol_file": "parts/LIS2MDL/LIS2MDL.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.679Z"
+}

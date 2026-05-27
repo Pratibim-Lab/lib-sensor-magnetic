@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/BMM150:BMM150",
+  "name": "BMM150",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/BMM150.kicad_sym",
+  "description": "Geomagnetic Sensor, WLCSP-12",
+  "datasheet": "https://www.mouser.com/datasheet/2/783/BST-BMM150-DS001-01-786480.pdf",
+  "keywords": "BOSH Geomagnetic Sensor",
+  "footprint": "Package_CSP:WLCSP-12_1.56x1.56mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/BMM150/",
+  "part_path": "parts/BMM150",
+  "symbol_file": "parts/BMM150/BMM150.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.624Z"
+}

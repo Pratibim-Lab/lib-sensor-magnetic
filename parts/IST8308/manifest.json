@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/IST8308:IST8308",
+  "name": "IST8308",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/IST8308.kicad_sym",
+  "description": "3D Magnetometer, High Sensitivity, I2C Interface, LGA-16",
+  "datasheet": "http://www.isentek.com/en/dlf.php?file=../ISENTEK/(201703-20)IST8308%20Datasheet%20v1.0_brief.pdf",
+  "keywords": "magnet field sensor compass",
+  "footprint": "Package_LGA:LGA-16_3x3mm_P0.5mm",
+  "extends": "IST8310",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/IST8308/",
+  "part_path": "parts/IST8308",
+  "symbol_file": "parts/IST8308/IST8308.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.666Z"
+}

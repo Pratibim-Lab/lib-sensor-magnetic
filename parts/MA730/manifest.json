@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MA730:MA730",
+  "name": "MA730",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MA730.kicad_sym",
+  "description": "Magnetic rotary angle sensor, 14-bit, SPI interface, ABZ, PWM, QFN-16",
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/m/a/ma730_r1.01.pdf",
+  "keywords": "sensor magnetic hall position rotation spi",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MA730/",
+  "part_path": "parts/MA730",
+  "symbol_file": "parts/MA730/MA730.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.688Z"
+}

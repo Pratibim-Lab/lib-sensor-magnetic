@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1103xLH:A1103xLH",
+  "name": "A1103xLH",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1103xLH.kicad_sym",
+  "description": "Hall effect switch, unipolar (south-polarity), Bop=280G, Brp=225G, 3.8-24V supply, SOT-23W",
+  "datasheet": "https://www.allegromicro.com/-/media/files/datasheets/a110x-datasheet.ashx",
+  "keywords": "A3143",
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "extends": "A1101xLH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1103xLH/",
+  "part_path": "parts/A1103xLH",
+  "symbol_file": "parts/A1103xLH/A1103xLH.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.546Z"
+}

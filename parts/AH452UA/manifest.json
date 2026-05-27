@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AH452UA:AH452UA",
+  "name": "AH452UA",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AH452UA.kicad_sym",
+  "description": "High sensitivity omnipolar Hall effect switch, Bop=±50G, Brp=±30G, TO-92S (3-pin SIP)",
+  "datasheet": "https://datasheet4u.com/pdf-down/A/H/4/AH452-AlfaElectronics.pdf",
+  "keywords": "Alfa-Electronics",
+  "footprint": "Package_TO_SOT_THT:TO-92S",
+  "extends": "A1101xUA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AH452UA/",
+  "part_path": "parts/AH452UA",
+  "symbol_file": "parts/AH452UA/AH452UA.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.588Z"
+}

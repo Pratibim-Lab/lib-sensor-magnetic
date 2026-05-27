@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AS5047D:AS5047D",
+  "name": "AS5047D",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AS5047D.kicad_sym",
+  "description": "On-Axis Magnetic Position Sensor, 14-bit, PWM Output, ABI Output, UVW Output, SPI Interface, TSSOP-14",
+  "datasheet": "https://ams.com/documents/20143/36005/AS5047D_DS000394_2-00.pdf",
+  "keywords": "Magnetic Hall Sensor",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AS5047D/",
+  "part_path": "parts/AS5047D",
+  "symbol_file": "parts/AS5047D/AS5047D.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.595Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1101xUA:A1101xUA",
+  "name": "A1101xUA",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1101xUA.kicad_sym",
+  "description": "Hall effect switch, unipolar (south-polarity), Bop=100G, Brp=45G, 3.8-24V supply, TO-92S (3-pin SIP)",
+  "datasheet": "https://www.allegromicro.com/-/media/files/datasheets/a110x-datasheet.ashx",
+  "keywords": "A3141",
+  "footprint": "Package_TO_SOT_THT:TO-92S",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1101xUA/",
+  "part_path": "parts/A1101xUA",
+  "symbol_file": "parts/A1101xUA/A1101xUA.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.543Z"
+}

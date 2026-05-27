@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/Si7210-B-xx-IV:Si7210-B-xx-IV",
+  "name": "Si7210-B-xx-IV",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/Si7210-B-xx-IV.kicad_sym",
+  "description": "I2C Hall Effect Magnetic Position and Temperature Sensor, SOT-23-5",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf",
+  "keywords": "I2C hall effect magnetic postition temperature sensor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/Si7210-B-xx-IV/",
+  "part_path": "parts/Si7210-B-xx-IV",
+  "symbol_file": "parts/Si7210-B-xx-IV/Si7210-B-xx-IV.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.753Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MT6701CT:MT6701CT",
+  "name": "MT6701CT",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MT6701CT.kicad_sym",
+  "description": "Hall Based Angle Position Encoder Sensor, I2C, SSI, ABZ & UVW interfaces, 3.3..5V supply, SOIC-8",
+  "datasheet": "https://www.magntek.com.cn/upload/MT6701_Rev.1.5.pdf",
+  "keywords": "sensor magnetic hall rotation",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MT6701CT/",
+  "part_path": "parts/MT6701CT",
+  "symbol_file": "parts/MT6701CT/MT6701CT.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.707Z"
+}

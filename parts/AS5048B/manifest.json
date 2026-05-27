@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AS5048B:AS5048B",
+  "name": "AS5048B",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AS5048B.kicad_sym",
+  "description": "Magnetic position sensor, 14-bit, PWM output, I2C Interface, TSSOP-14",
+  "datasheet": "https://ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf",
+  "keywords": "sensor magnetic hall position rotation i2c",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AS5048B/",
+  "part_path": "parts/AS5048B",
+  "symbol_file": "parts/AS5048B/AS5048B.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.601Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/TLE5012B:TLE5012B",
+  "name": "TLE5012B",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/TLE5012B.kicad_sym",
+  "description": "15bit magnetic angle sensor based on GMR principle with diagnostic functions, SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-TLE5012B_Exxxx-DataSheet-v02_01-EN.pdf?fileId=db3a304334fac4c601350f31c43c433f",
+  "keywords": "Infineon GMR Angle Position Rotation SPI SSC PWM IIF SPC SENT HSM BIST AEC",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/TLE5012B/",
+  "part_path": "parts/TLE5012B",
+  "symbol_file": "parts/TLE5012B/TLE5012B.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.758Z"
+}

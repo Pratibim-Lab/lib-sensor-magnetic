@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/SM351LT:SM351LT",
+  "name": "SM351LT",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/SM351LT.kicad_sym",
+  "description": "Hall Effect Switch, SOT-23",
+  "datasheet": "https://sensing.honeywell.com/honeywell-sensing-nanopower-series-product-sheet-50095501-a-en.pdf",
+  "keywords": "Hall Effect Switch Sensor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/SM351LT/",
+  "part_path": "parts/SM351LT",
+  "symbol_file": "parts/SM351LT/SM351LT.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.755Z"
+}

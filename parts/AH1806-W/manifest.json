@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AH1806-W:AH1806-W",
+  "name": "AH1806-W",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AH1806-W.kicad_sym",
+  "description": "High Sensitivity Micropower Omnipolar Hall-Effect Switch, SC-59",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AH1806.pdf",
+  "keywords": "hall switch",
+  "footprint": "Package_TO_SOT_SMD:SC-59",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AH1806-W/",
+  "part_path": "parts/AH1806-W",
+  "symbol_file": "parts/AH1806-W/AH1806-W.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.582Z"
+}

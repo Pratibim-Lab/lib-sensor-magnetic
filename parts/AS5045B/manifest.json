@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AS5045B:AS5045B",
+  "name": "AS5045B",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AS5045B.kicad_sym",
+  "description": "Magnetic Position Sensor, 12-bit, PWM Output, ABI Output, SPI Interface, SSOP-16",
+  "datasheet": "https://ams.com/documents/20143/36005/AS5045B_DS000397_2-00.pdf",
+  "keywords": "Magnetic Hall Encoder",
+  "footprint": "Package_SO:SSOP-16_5.3x6.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AS5045B/",
+  "part_path": "parts/AS5045B",
+  "symbol_file": "parts/AS5045B/AS5045B.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.592Z"
+}

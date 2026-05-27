@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/TMAG5170-Q1:TMAG5170-Q1",
+  "name": "TMAG5170-Q1",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/TMAG5170-Q1.kicad_sym",
+  "description": "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf",
+  "keywords": "sensor magnetic hall position rotation spi",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/TMAG5170-Q1/",
+  "part_path": "parts/TMAG5170-Q1",
+  "symbol_file": "parts/TMAG5170-Q1/TMAG5170-Q1.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.788Z"
+}

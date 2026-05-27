@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A1301xUA:A1301xUA",
+  "name": "A1301xUA",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A1301xUA.kicad_sym",
+  "description": "Linear Hall Effect Sensor, 2.5 mV/G, 4.5-6.0V supply, TO-92S (3-pin SIP)",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A1301-2-Datasheet.ashx",
+  "keywords": "ratiometric Obsolete",
+  "footprint": "Package_TO_SOT_THT:TO-92S",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A1301xUA/",
+  "part_path": "parts/A1301xUA",
+  "symbol_file": "parts/A1301xUA/A1301xUA.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.554Z"
+}

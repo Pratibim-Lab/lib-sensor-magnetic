@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/TMAG5110B4xxDBV:TMAG5110B4xxDBV",
+  "name": "TMAG5110B4xxDBV",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/TMAG5110B4xxDBV.kicad_sym",
+  "description": "2-dimensional, dual channel, Hall effect latch, ZX, 3 mT, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tmag5110.pdf",
+  "keywords": "hall switch",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TMAG5110A2xxDBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/TMAG5110B4xxDBV/",
+  "part_path": "parts/TMAG5110B4xxDBV",
+  "symbol_file": "parts/TMAG5110B4xxDBV/TMAG5110B4xxDBV.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.769Z"
+}

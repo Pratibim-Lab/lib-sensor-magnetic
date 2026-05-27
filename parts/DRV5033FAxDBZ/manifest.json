@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/DRV5033FAxDBZ:DRV5033FAxDBZ",
+  "name": "DRV5033FAxDBZ",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/DRV5033FAxDBZ.kicad_sym",
+  "description": "±3.5 / ±2 mT, 20-kHz, 2-38V, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv5033.pdf",
+  "keywords": "Digital Omnipolar Switch Hall Effect Sensor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "DRV5055A1xDBZxQ1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/DRV5033FAxDBZ/",
+  "part_path": "parts/DRV5033FAxDBZ",
+  "symbol_file": "parts/DRV5033FAxDBZ/DRV5033FAxDBZ.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.633Z"
+}

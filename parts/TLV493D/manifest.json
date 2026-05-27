@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/TLV493D:TLV493D",
+  "name": "TLV493D",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/TLV493D.kicad_sym",
+  "description": "Low power 3D magnetic sensor, I2C interface, SOT-23-6",
+  "datasheet": "http://www.infineon.com/dgdl/Infineon-TLV493D-A1B6-DS-v01_00-EN.pdf?fileId=5546d462525dbac40152a6b85c760e80",
+  "keywords": "magnetic field i2c",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/TLV493D/",
+  "part_path": "parts/TLV493D",
+  "symbol_file": "parts/TLV493D/TLV493D.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.761Z"
+}

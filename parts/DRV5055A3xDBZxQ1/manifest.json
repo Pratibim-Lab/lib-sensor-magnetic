@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/DRV5055A3xDBZxQ1:DRV5055A3xDBZxQ1",
+  "name": "DRV5055A3xDBZxQ1",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/DRV5055A3xDBZxQ1.kicad_sym",
+  "description": "25 mV/mT,±85-mT, 20-kHz, 3.3/5V, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf",
+  "keywords": "Automotive Ratiometric Linear Hall Effect Sensor AEC-Q100",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "DRV5055A1xDBZxQ1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/DRV5055A3xDBZxQ1/",
+  "part_path": "parts/DRV5055A3xDBZxQ1",
+  "symbol_file": "parts/DRV5055A3xDBZxQ1/DRV5055A3xDBZxQ1.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.652Z"
+}

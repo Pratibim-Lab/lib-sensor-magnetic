@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MMC5883MA:MMC5883MA",
+  "name": "MMC5883MA",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MMC5883MA.kicad_sym",
+  "description": "3-axis Magnetic Sensor, I2C Interface, LGA-16",
+  "datasheet": "http://www.memsic.com/userfiles/files/DataSheets/Magnetic-Sensors-Datasheets/MMC5883MA-RevC.pdf",
+  "keywords": "I2C magnetic 3-axis sensor",
+  "footprint": "Package_LGA:LGA-16_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MMC5883MA/",
+  "part_path": "parts/MMC5883MA",
+  "symbol_file": "parts/MMC5883MA/MMC5883MA.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.704Z"
+}

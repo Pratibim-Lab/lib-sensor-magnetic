@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/ACS73369xUAA-010B5:ACS73369xUAA-010B5",
+  "name": "ACS73369xUAA-010B5",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/ACS73369xUAA-010B5.kicad_sym",
+  "description": "Customer-Programmable Linear Hall Effect Sensor, +9 to +13.5mV/G, TO-92S (3-pin SIP)",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS73369-Datasheet.ashx?la=en",
+  "keywords": "A1369 current-sensing monitor ratiometric",
+  "footprint": "Package_TO_SOT_THT:TO-92S",
+  "extends": "A1369xUA-10",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/ACS73369xUAA-010B5/",
+  "part_path": "parts/ACS73369xUAA-010B5",
+  "symbol_file": "parts/ACS73369xUAA-010B5/ACS73369xUAA-010B5.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.572Z"
+}

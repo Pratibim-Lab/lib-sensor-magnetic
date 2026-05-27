@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/DRV5033FAxLPG:DRV5033FAxLPG",
+  "name": "DRV5033FAxLPG",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/DRV5033FAxLPG.kicad_sym",
+  "description": "±3.5 / ±2 mT, 20-kHz, 2-38V, TO-92",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv5033.pdf",
+  "keywords": "Digital Omnipolar Switch Hall Effect Sensor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "DRV5055A1xLPGxQ1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/DRV5033FAxLPG/",
+  "part_path": "parts/DRV5033FAxLPG",
+  "symbol_file": "parts/DRV5033FAxLPG/DRV5033FAxLPG.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.637Z"
+}

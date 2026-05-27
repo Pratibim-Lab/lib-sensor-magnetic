@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/BM1422AGMV:BM1422AGMV",
+  "name": "BM1422AGMV",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/BM1422AGMV.kicad_sym",
+  "description": "Low power 3axis magnetic sensor, I2C interface, MLGA010V020A",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/ic/sensor/geomagnetic/bm1422agmv-e.pdf",
+  "keywords": "3D 3axis magnetometer magnetic sensor I2C",
+  "footprint": "Package_LGA:Rohm_MLGA010V020A_LGA-10_2x2mm_P0.45mm_LayoutBorder2x3y",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/BM1422AGMV/",
+  "part_path": "parts/BM1422AGMV",
+  "symbol_file": "parts/BM1422AGMV/BM1422AGMV.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.622Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/AK7452:AK7452",
+  "name": "AK7452",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/AK7452.kicad_sym",
+  "description": "Magnetic rotary angle sensor, 14-bit, SPI interface, ABZ, UVW, TSSOP-16",
+  "datasheet": "https://www.akm.com/akm/en/file/datasheet/AK7452.pdf",
+  "keywords": "sensor magnetic hall position rotation spi",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/AK7452/",
+  "part_path": "parts/AK7452",
+  "symbol_file": "parts/AK7452/AK7452.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.590Z"
+}

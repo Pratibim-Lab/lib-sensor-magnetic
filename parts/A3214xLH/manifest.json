@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/A3214xLH:A3214xLH",
+  "name": "A3214xLH",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/A3214xLH.kicad_sym",
+  "description": "Hall Effect Switch, bipolar, Bop = -48 or +42G, Brp = -38 or 32G, 2.4-5.5V supply, SOT-23W",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A3213-4-Datasheet.ashx",
+  "keywords": "Allegro",
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "extends": "A1101xLH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/A3214xLH/",
+  "part_path": "parts/A3214xLH",
+  "symbol_file": "parts/A3214xLH/A3214xLH.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.571Z"
+}

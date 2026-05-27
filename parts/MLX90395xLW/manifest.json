@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Magnetic/MLX90395xLW:MLX90395xLW",
+  "name": "MLX90395xLW",
+  "library": "Sensor_Magnetic",
+  "file": "Sensor_Magnetic.kicad_symdir/MLX90395xLW.kicad_sym",
+  "description": "3-axis Magnetometer Node, SPI / I2C interface, VQFN-16",
+  "datasheet": "https://www.melexis.com/en/documents/documentation/datasheets/datasheet-mlx90395",
+  "keywords": "Melexis Triaxis Hall-Sensor",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.675x1.675mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-magnetic@master/parts/MLX90395xLW/",
+  "part_path": "parts/MLX90395xLW",
+  "symbol_file": "parts/MLX90395xLW/MLX90395xLW.kicad_sym",
+  "source_library": "Sensor_Magnetic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:11.694Z"
+}
